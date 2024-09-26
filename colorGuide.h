@@ -2,7 +2,7 @@
 #include "ColorPair.h"
 #include <vector>
 
-class TeleComm
+class colorGuide
 {
   private:
     static const std::uint8_t maxColorPair = 25;
