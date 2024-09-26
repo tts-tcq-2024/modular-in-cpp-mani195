@@ -1,5 +1,5 @@
 #pragma once
-#include "ColorPair.h"
+#include "pairColor.h"
 #include <vector>
 
 class colorGuide
