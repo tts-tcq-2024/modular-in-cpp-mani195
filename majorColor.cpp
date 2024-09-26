@@ -1,4 +1,4 @@
-#include "MajorColorHandler.h"
+#include "majorColor.h"
 
 const std::map<MajorColorHandler::Name, std::uint8_t> MajorColorHandler::majorColorCodes = {
         {MajorColorHandler::Name::WHITE, 0x00},
