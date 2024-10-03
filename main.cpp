@@ -1,6 +1,6 @@
 #include <iostream>
 #include <assert.h>
-#include "colorGuide.h"
+#include "colorManual.h"
 
 void testNumberToPair(int pairNumber, majorColor::Name expectedMajor, minorColor::Name expectedMinor)
 {
