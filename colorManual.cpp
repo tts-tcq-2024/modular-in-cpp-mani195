@@ -1,4 +1,4 @@
-#include "colorGuide.h"
+#include "colorManual.h"
 
 ColorPair colorGuide::getColorFromPairNumber(int pairNumber)
  {
